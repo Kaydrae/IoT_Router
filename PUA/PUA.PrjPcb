@@ -293,6 +293,40 @@ GenerateClassCluster=0
 DocumentUniqueId=BNFDBVOB
 
 [Document16]
+DocumentPath=..\..\..\..\Downloads\ul_KSZ9897STXC (1)\AltiumDesigner\2021-04-11_09-25-38\2021-04-11_09-25-38.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HHHPTQMY
+
+[Document17]
+DocumentPath=..\..\..\..\Downloads\ul_VSC8514XMK11\AltiumDesigner\2021-04-11_09-14-22\2021-04-11_09-14-22.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HLEPCDTQ
+
+[Document18]
 DocumentPath=SnapDocs\ECS-3518-1000-B-TR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +343,41 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document19]
+DocumentPath=..\..\..\..\Downloads\ul_KSZ9897STXC (1)\AltiumDesigner\2021-04-11_09-25-38\2021-04-11_09-25-38.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AOBKVEBR
+
+[Document20]
+DocumentPath=..\..\..\..\Downloads\ul_VSC8514XMK11\AltiumDesigner\2021-04-11_09-14-22\2021-04-11_09-14-22.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YRCASKHC
+
+[Document21]
 DocumentPath=SnapDocs\ECS-3518-1000-B-TR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +394,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document22]
 DocumentPath=SnapDocs\3221-10-0100-00.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,7 +411,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document23]
 DocumentPath=SnapDocs\3221-10-0100-00.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -360,7 +428,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
+[Document24]
 DocumentPath=SnapDocs\USB1100-30-A.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -377,7 +445,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JVHTISAB
 
-[Document21]
+[Document25]
 DocumentPath=SnapDocs\USB1100-30-A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -394,7 +462,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document26]
 DocumentPath=SnapDocs\GDZ8V2LP3-7.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -411,7 +479,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document27]
 DocumentPath=SnapDocs\GDZ8V2LP3-7.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -428,7 +496,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document24]
+[Document28]
 DocumentPath=SnapDocs\1759503-1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -445,7 +513,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
+[Document29]
 DocumentPath=SnapDocs\1759503-1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -462,7 +530,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document26]
+[Document30]
 DocumentPath=SnapDocs\2227023-1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -479,8 +547,42 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document31]
 DocumentPath=SnapDocs\2227023-1.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document32]
+DocumentPath=SnapDocs\AK2PAF1-156.2500.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document33]
+DocumentPath=SnapDocs\AK2PAF1-156.2500.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
