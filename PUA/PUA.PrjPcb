@@ -293,40 +293,6 @@ GenerateClassCluster=0
 DocumentUniqueId=BNFDBVOB
 
 [Document16]
-DocumentPath=..\..\..\..\Downloads\ul_KSZ9897STXC (1)\AltiumDesigner\2021-04-11_09-25-38\2021-04-11_09-25-38.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HHHPTQMY
-
-[Document17]
-DocumentPath=..\..\..\..\Downloads\ul_VSC8514XMK11\AltiumDesigner\2021-04-11_09-14-22\2021-04-11_09-14-22.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HLEPCDTQ
-
-[Document18]
 DocumentPath=SnapDocs\ECS-3518-1000-B-TR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,41 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
-DocumentPath=..\..\..\..\Downloads\ul_KSZ9897STXC (1)\AltiumDesigner\2021-04-11_09-25-38\2021-04-11_09-25-38.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=AOBKVEBR
-
-[Document20]
-DocumentPath=..\..\..\..\Downloads\ul_VSC8514XMK11\AltiumDesigner\2021-04-11_09-14-22\2021-04-11_09-14-22.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YRCASKHC
-
-[Document21]
+[Document17]
 DocumentPath=SnapDocs\ECS-3518-1000-B-TR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -394,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document18]
 DocumentPath=SnapDocs\3221-10-0100-00.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -411,7 +343,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document19]
 DocumentPath=SnapDocs\3221-10-0100-00.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -428,7 +360,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document24]
+[Document20]
 DocumentPath=SnapDocs\USB1100-30-A.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -445,7 +377,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JVHTISAB
 
-[Document25]
+[Document21]
 DocumentPath=SnapDocs\USB1100-30-A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -462,7 +394,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document26]
+[Document22]
 DocumentPath=SnapDocs\GDZ8V2LP3-7.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -479,7 +411,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document23]
 DocumentPath=SnapDocs\GDZ8V2LP3-7.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -496,7 +428,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document28]
+[Document24]
 DocumentPath=SnapDocs\1759503-1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -513,7 +445,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document29]
+[Document25]
 DocumentPath=SnapDocs\1759503-1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -530,7 +462,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document30]
+[Document26]
 DocumentPath=SnapDocs\2227023-1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -547,7 +479,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document31]
+[Document27]
 DocumentPath=SnapDocs\2227023-1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -564,7 +496,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document32]
+[Document28]
 DocumentPath=SnapDocs\AK2PAF1-156.2500.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -581,7 +513,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document33]
+[Document29]
 DocumentPath=SnapDocs\AK2PAF1-156.2500.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -717,7 +649,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=EPSON WF-7840 Series
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
