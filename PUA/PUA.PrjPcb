@@ -191,57 +191,6 @@ GenerateClassCluster=0
 DocumentUniqueId=BMOSGXBT
 
 [Document10]
-DocumentPath=Public_CPU_SLIC_IF.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HATYXCFX
-
-[Document11]
-DocumentPath=Public_CPU_SLIC_Power.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NPFMSMYZ
-
-[Document12]
-DocumentPath=Public_CPU_Vx585_DSL.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=CALSARII
-
-[Document13]
 DocumentPath=Public_CPU_Power_Supplies.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VYSDFPUD
 
-[Document14]
+[Document11]
 DocumentPath=Public_CPU_Power_Supplies_2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,8 +224,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XBEVBYFL
 
-[Document15]
-DocumentPath=Public_CPU_IFE7_AND_FILTERS.SchDoc
+[Document12]
+DocumentPath=Public_Ethernet_Switch.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -292,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BNFDBVOB
 
-[Document16]
+[Document13]
 DocumentPath=SnapDocs\ECS-3518-1000-B-TR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document14]
 DocumentPath=SnapDocs\ECS-3518-1000-B-TR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document15]
 DocumentPath=SnapDocs\3221-10-0100-00.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document16]
 DocumentPath=SnapDocs\3221-10-0100-00.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -360,7 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
+[Document17]
 DocumentPath=SnapDocs\USB1100-30-A.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -377,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JVHTISAB
 
-[Document21]
+[Document18]
 DocumentPath=SnapDocs\USB1100-30-A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -394,7 +343,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document19]
 DocumentPath=SnapDocs\GDZ8V2LP3-7.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -411,7 +360,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document20]
 DocumentPath=SnapDocs\GDZ8V2LP3-7.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -428,7 +377,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document24]
+[Document21]
 DocumentPath=SnapDocs\1759503-1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -445,7 +394,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
+[Document22]
 DocumentPath=SnapDocs\1759503-1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -462,7 +411,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document26]
+[Document23]
 DocumentPath=SnapDocs\2227023-1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -479,7 +428,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document24]
 DocumentPath=SnapDocs\2227023-1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -496,7 +445,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document28]
+[Document25]
 DocumentPath=SnapDocs\AK2PAF1-156.2500.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -513,7 +462,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document29]
+[Document26]
 DocumentPath=SnapDocs\AK2PAF1-156.2500.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -530,7 +479,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document30]
+[Document27]
 DocumentPath=SnapDocs\PJ-082BH.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -547,7 +496,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document31]
+[Document28]
 DocumentPath=SnapDocs\PJ-082BH.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -564,7 +513,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document32]
+[Document29]
 DocumentPath=SnapDocs\MC34VR500V4ES.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -581,7 +530,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JVHTISAB
 
-[Document33]
+[Document30]
 DocumentPath=SnapDocs\MC34VR500V4ES.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -717,7 +666,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=EPSON WF-7840 Series
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
