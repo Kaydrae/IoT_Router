@@ -38,6 +38,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=Main_Power.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=11
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BNFDBVOB
+
+[Document2]
 DocumentPath=Public_CPU_Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -54,7 +71,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UNGVQLKX
 
-[Document2]
+[Document3]
 DocumentPath=Public_CPU_Reset_IO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -71,7 +88,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VUQVPVMK
 
-[Document3]
+[Document4]
 DocumentPath=Public_CPU_IO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,7 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ONCSBRDZ
 
-[Document4]
+[Document5]
 DocumentPath=Public_CPU_USB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RBQCQSGY
 
-[Document5]
+[Document6]
 DocumentPath=Public_CPU_DDR4.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RUIXFKBZ
 
-[Document6]
+[Document7]
 DocumentPath=Public_CPU_RGMII.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UVVDREGU
 
-[Document7]
+[Document8]
 DocumentPath=Public_CPU_SerDes.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,25 +173,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AAZNZELS
 
-[Document8]
-DocumentPath=Public_CPU_Power_Supplies.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=9
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VYSDFPUD
-
 [Document9]
-DocumentPath=Public_CPU_Power_Supplies_2.SchDoc
+DocumentPath=Public_CPU_Sub_Power_Supplies.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -191,7 +191,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XBEVBYFL
 
 [Document10]
-DocumentPath=Public_QSGMII_ETHERNET_TRANSCEIVER_0.SchDoc
+DocumentPath=Public_QSGMII_ETHERNET.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -208,7 +208,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GYFKZVYP
 
 [Document11]
-DocumentPath=Public_QSGMII_ETHERNET_TRANSCEIVER_1.SchDoc
+DocumentPath=Public_QSGMII_ETHERNET_POWER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -225,23 +225,6 @@ GenerateClassCluster=0
 DocumentUniqueId=NUSWAHVT
 
 [Document12]
-DocumentPath=Public_Ethernet_Switch.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=11
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BNFDBVOB
-
-[Document13]
 DocumentPath=Private_CPU_Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +241,41 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BMOSGXBT
 
+[Document13]
+DocumentPath=..\..\..\AltiumLL\SamacSys.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NGLTGAHM
+
 [Document14]
+DocumentPath=..\..\..\..\Downloads\ul_VSC8514XMK11\AltiumDesigner\2021-04-11_09-14-22\VSC8514XMK-11.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MLANRGHH
+
+[Document15]
 DocumentPath=SnapDocs\ECS-3518-1000-B-TR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +292,41 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document16]
+DocumentPath=..\..\..\AltiumLL\SamacSys.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MPRJBCLL
+
+[Document17]
+DocumentPath=..\..\..\..\Downloads\ul_VSC8514XMK11\AltiumDesigner\2021-04-11_09-14-22\VSC8514XMK-11.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CXMDPTHJ
+
+[Document18]
 DocumentPath=SnapDocs\ECS-3518-1000-B-TR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,7 +343,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document19]
 DocumentPath=SnapDocs\3221-10-0100-00.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +360,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document20]
 DocumentPath=SnapDocs\3221-10-0100-00.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +377,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document21]
 DocumentPath=SnapDocs\USB1100-30-A.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,7 +394,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JVHTISAB
 
-[Document19]
+[Document22]
 DocumentPath=SnapDocs\USB1100-30-A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -360,7 +411,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
+[Document23]
 DocumentPath=SnapDocs\GDZ8V2LP3-7.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -377,7 +428,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
+[Document24]
 DocumentPath=SnapDocs\GDZ8V2LP3-7.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -394,7 +445,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document25]
 DocumentPath=SnapDocs\1759503-1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -411,7 +462,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document26]
 DocumentPath=SnapDocs\1759503-1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -428,7 +479,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document24]
+[Document27]
 DocumentPath=SnapDocs\2227023-1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -445,7 +496,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
+[Document28]
 DocumentPath=SnapDocs\2227023-1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -462,7 +513,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document26]
+[Document29]
 DocumentPath=SnapDocs\AK2PAF1-156.2500.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -479,7 +530,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document30]
 DocumentPath=SnapDocs\AK2PAF1-156.2500.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -496,7 +547,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document28]
+[Document31]
 DocumentPath=SnapDocs\PJ-082BH.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -513,7 +564,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document29]
+[Document32]
 DocumentPath=SnapDocs\PJ-082BH.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -530,7 +581,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document30]
+[Document33]
 DocumentPath=SnapDocs\MC34VR500V4ES.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -547,7 +598,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JVHTISAB
 
-[Document31]
+[Document34]
 DocumentPath=SnapDocs\MC34VR500V4ES.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -564,14 +615,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document32]
+[Document35]
 DocumentPath=Private_CPU_Reset_IO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=13
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -581,14 +632,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CNXEIXBO
 
-[Document33]
+[Document36]
 DocumentPath=Private_CPU_IO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=14
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -598,14 +649,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EESLYUZW
 
-[Document34]
+[Document37]
 DocumentPath=Private_CPU_USB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=15
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -615,14 +666,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EWKHAJVE
 
-[Document35]
+[Document38]
 DocumentPath=Private_CPU_DDR4.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=16
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -632,14 +683,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BVFLSMIM
 
-[Document36]
+[Document39]
 DocumentPath=Private_CPU_RGMII.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=17
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -649,14 +700,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NCYSKJDU
 
-[Document37]
+[Document40]
 DocumentPath=Private_CPU_SerDes.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=18
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -666,31 +717,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YFHFFNKY
 
-[Document38]
-DocumentPath=Private_CPU_Power_Supplies.SchDoc
+[Document41]
+DocumentPath=Private_CPU_Sub_Power_Supplies.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=LGDYGOHW
-
-[Document39]
-DocumentPath=Private_CPU_Power_Supplies_2.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=19
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -700,14 +734,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SIEEMHQL
 
-[Document40]
+[Document42]
 DocumentPath=Server_CPU_Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=20
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -717,14 +751,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=THVXTOYN
 
-[Document41]
+[Document43]
 DocumentPath=Server_CPU_Reset_IO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=21
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -734,14 +768,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UYEJAJXA
 
-[Document42]
+[Document44]
 DocumentPath=Server_CPU_IO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=22
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -751,14 +785,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QTAGAOCZ
 
-[Document43]
+[Document45]
 DocumentPath=Server_CPU_USB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=23
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -768,14 +802,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QZAMUFDM
 
-[Document44]
+[Document46]
 DocumentPath=Server_CPU_DDR4.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=24
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -785,14 +819,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EJJGKUUN
 
-[Document45]
+[Document47]
 DocumentPath=Server_CPU_RGMII.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=25
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -802,14 +836,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XKYQKPXP
 
-[Document46]
-DocumentPath=Server_CPU_Power_Supplies.SchDoc
+[Document48]
+DocumentPath=Server_CPU_SerDes.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=26
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -817,16 +851,16 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=FQHMPYZR
+DocumentUniqueId=SFDIUUXA
 
-[Document47]
-DocumentPath=Server_CPU_Power_Supplies_2.SchDoc
+[Document49]
+DocumentPath=Server_CPU_Sub_Power_Supplies.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=27
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -835,6 +869,159 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JWITNATJ
+
+[Document50]
+DocumentPath=SnapDocs\ECS-LVDS25-1250-A.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document51]
+DocumentPath=SnapDocs\ECS-LVDS25-1250-A.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document52]
+DocumentPath=SnapDocs\USB3076-30-A.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document53]
+DocumentPath=SnapDocs\USB3076-30-A.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document54]
+DocumentPath=SnapDocs\USBLC6-2SC6.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document55]
+DocumentPath=SnapDocs\USBLC6-2SC6.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document56]
+DocumentPath=SGMII_CONNECTION.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ZXQFSHUC
+
+[Document57]
+DocumentPath=SnapDocs\USB1075-30-P-B.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document58]
+DocumentPath=SnapDocs\USB1075-30-P-B.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [Configuration1]
 Name=Sources
@@ -955,7 +1142,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=EPSON4777A0 (WF-7840 Series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
